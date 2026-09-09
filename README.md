@@ -1,5 +1,3 @@
-# Unnamed Enhancements LinoriaLib
+## UELinoriaLib (  tungtung tung salib library) v1 ong
 
-skid skid skid sahur
-
-working on custom lua manager (addons/CustomLua.lua)
+added CLM (CustomLuaManager) which has not been tested yet because im too lazy
